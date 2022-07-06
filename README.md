@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yolanda2020Code
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL and utilising BI Tools for Visualisation (Tableau and PowerBI)
+- 🌱 I’m currently deep diving into Python, SQL and utilising BI Tools for Visualisation (Tableau and PowerBI), as well as Predictive Analytics
 - 📫 How to reach me : https://www.linkedin.com/in/yolandankala/
 
 <!---
