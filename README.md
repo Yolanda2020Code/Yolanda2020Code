@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Yolanda2020Code
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently deep diving into Python, SQL and utilising BI Tools for Visualisation (Tableau and PowerBI), as well as Predictive Analytics
-- 📫 How to reach me : https://www.linkedin.com/in/yolandankala/
+# Hi there! 👋 I'm Yolanda Nkala
 
-<!---
-Yolanda2020Code/Yolanda2020Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+🔭 I'm a dedicated **Machine Learning Engineer** with a strong passion for **Deep Learning** and **Natural Language Processing**.
+
+🌱 Currently diving deep into the world of AI ethics, I believe in using technology to make a positive impact in the world.
+
+🤝 Open to collaborations, feel free to reach out!
+
+## Skills
+- **Languages**: Python, JavaScript, C++
+- **Frameworks/Libraries**: TensorFlow, PyTorch, Scikit-learn, NLTK
+- **Tools**: Git, Docker, Jenkins
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yolandankala/)
+- 📧 Email: yolandankalan@gmail.com
+
+
+
+
+
